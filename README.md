@@ -142,4 +142,4 @@ This project is released under the **MIT License** (see [`LICENSE`](LICENSE)). T
 
 ---
 
-> Crafted with ❤️ by *[Your Name / Team]*. Contributions, issues, and suggestions are welcome!
+> Crafted with ❤️ by *Muhammad Zaidan Gunawan*. Contributions, issues, and suggestions are welcome!
